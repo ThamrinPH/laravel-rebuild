@@ -18,7 +18,7 @@ return [
     ],
 
     'should_clear_cache' => true,
-    'should_celar_config' => true,
+    'should_clear_config' => true,
     'should_clear_route' => true,
     'should_clear_view' => true,
     'should_flush_expired_password_reset_token' => true,
